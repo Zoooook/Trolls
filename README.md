@@ -1,3 +1,4 @@
+'''
 Step 1: Install ahkscript.org
 Step 2: ???
 Step 3: Profit
@@ -11,3 +12,4 @@ InvertLockScreen disables locking the computer through Ctrl-Alt-Del and hijacks 
 Exit either script the nice way with Ctrl-Alt-Shift-Z.
 
 More inspiration [here](http://www.howtogeek.com/57552/the-10-most-ridiculously-awesome-geeky-computer-pranks/).
+'''
