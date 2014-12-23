@@ -29,7 +29,7 @@ displayChange(wparam, lparam, msg, hwnd){
   MouseMove 0, 0, 0
   Sleep 20
   SendInput ^!{Down}
-  Sleep 100
+  Sleep 250
   RegWrite, REG_DWORD, HKEY_CURRENT_USER, Software\Microsoft\Windows\CurrentVersion\Policies\System, DisableLockWorkstation, 0
   DllCall("LockWorkStation")
   sleep, 1000
