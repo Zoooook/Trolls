@@ -1,5 +1,7 @@
-z::SendInput zz
-q::SendInput qq
-x::SendInput xx
+#NoTrayIcon
+
+$z::SendInput zz
+$q::SendInput qq
+$x::SendInput xx
 
 ^!+z::ExitApp
